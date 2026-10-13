@@ -1,6 +1,6 @@
 # Projeto 01 - Catálogo de Produtos (DummyJSON)
 
-Aplicação web desenvolvida como parte da pós-graduação (2026), utilizando **Vite** e consumindo dados de produtos em tempo real da API pública **DummyJSON**. O sistema permite selecionar diferentes categorias de produtos e exibe os itens correspondentes com imagem, título e preço.
+Aplicação web desenvolvida de Programação Orientada a Serviços, do curso de Informática (2026), utilizando **Vite** e consumindo dados de produtos em tempo real da API pública **DummyJSON**. O sistema permite selecionar diferentes categorias de produtos e exibe os itens correspondentes com imagem, título e preço.
 
 ---
 
